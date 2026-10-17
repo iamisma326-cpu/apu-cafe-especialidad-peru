@@ -225,7 +225,7 @@ export default function Hero({ reducedMotion }) {
 
             {/* Rotating seal */}
             <div
-               -aria-hidden="true"
+               aria-hidden="true"
               className="absolute -left-6 -top-6 hidden h-28 w-28 items-center justify-center rounded-full border border-espresso/15 bg-parchment p-2 shadow-lg sm:flex"
             >
               <svg
